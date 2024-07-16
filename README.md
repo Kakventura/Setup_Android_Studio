@@ -1,14 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A6AB&size=35&center=true&vCenter=true&width=1000&lines=Configuração+do+Android+Studio)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76C714&size=35&center=true&vCenter=true&width=1000&lines=Configuração+do+Android+Studio)](https://git.io/typing-svg) 
 #
-- Este repositório tem por objetivo demonstrar o desenvolvimento, primeiro contato e prática do conteúdo de um módulo do curso de introdutório à programação em Kotlin: "Setup Android Studio" - Configurando o Android Studio, disponibilizado em:
+- Este repositório tem por objetivo demonstrar o desenvolvimento, primeiro contato e prática do conteúdo de um módulo do curso Noções Básicas do Android Compose: "Setup Android Studio" - Configurando o Android Studio, disponibilizado no target abaixo, juntamente com o acesso ao selo de conclusão do módulo.
 
 <div align="center"> 
-  <a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FF8D33?style=for-the-badge&logo=instagram&logoColor=white"
-style="border-radius: 4px"</a>
+  <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1" target="_blank"><img src="https://img.shields.io/badge/Introdução ao Kotlin-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+  <a href="https://g.dev/kaangelo" target="_blank"><img src="https://img.shields.io/badge/Selo de Conclusão-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
 </div>
-    
-<br>
-
-- Confira o selo de conclusão em:
-  
-  > https://g.dev/kaangelo
